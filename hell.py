@@ -1,12 +1,5 @@
-print("abbas")
-
-print("hello")
-
-print("bye")
-
-print("again")
-
-print("mohsen")
-
 1
+3
+4
+5
 
